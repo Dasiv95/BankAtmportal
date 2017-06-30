@@ -1,3 +1,3 @@
 # BankAtmportal
-This repository contains the code to read cresit card details and throw any exceptions necessary.
+This repository contains the code to read credit card details and throw any exceptions necessary.
 
